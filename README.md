@@ -1,5 +1,6 @@
 # bd-bank-branch-list
 All of the bank in bangladesh and their branches with bank code and routing number will be there in different format.
+There are information of *62 banks* and *8,751 Branches* in total.
 * formatted json - [Formatted Json](https://github.com/shourav9884/bd-bank-branch-list/blob/main/bank_data.json)
 * minified json - [Minified json](https://github.com/shourav9884/bd-bank-branch-list/blob/main/bank_data_minified.json)
 ## Structure of the json
